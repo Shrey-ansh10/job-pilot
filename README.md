@@ -349,7 +349,7 @@ Create `.env` file in `applier/` directory. See `CLAUDE.md` for complete templat
 4. Implement API endpoints (replace stubs)
 5. Implement first agent (Job Hunter)
 
----
+<!-- ---
 
 ## 🤝 Contributing
 
@@ -361,7 +361,7 @@ This is a personal project. Contributions welcome after MVP completion.
 
 MIT License
 
----
+--- -->
 
 **Built with LangGraph, FastAPI, PostgreSQL, and Multi-Provider LLMs**  
 **Monitored with LangSmith, Prometheus, and Grafana**
